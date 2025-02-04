@@ -1,4 +1,4 @@
-🎉 ##Sorteador de Amigos
+🎉 # Sorteador de Amigos
 Este projeto é um simples sorteador de amigos feito em JavaScript, HTML e CSS. Ele permite que os usuários adicionem nomes a uma lista e sorteiem um nome aleatório.
 
 ##🚀 Funcionalidades
